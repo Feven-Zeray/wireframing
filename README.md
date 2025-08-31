@@ -46,3 +46,22 @@ The type of wireframe depends on its **purpose and level of detail**:
 - If it is **detailed, includes realistic content, and resembles the final product**, it is **high-fidelity**.
 
 
+## Wireframing Tools
+
+There are several tools available for creating wireframes, ranging from simple sketching apps to advanced digital design platforms. Some popular wireframing tools include:
+
+- **Balsamiq:** Focuses on low-fidelity wireframes with a simple drag-and-drop interface.  
+- **Adobe XD:** Offers both wireframing and prototyping capabilities with interactive elements.  
+- **Sketch:** A vector-based design tool suitable for high-fidelity wireframes and UI design.  
+- **Figma:** A cloud-based, collaborative design tool widely used for wireframing and prototyping.
+
+### Why Figma is Recommended
+
+Figma is a powerful tool for wireframing because it:
+
+- Supports both **low-fidelity and high-fidelity wireframes**.  
+- Allows **real-time collaboration**, enabling teams to work together seamlessly.  
+- Offers a wide range of **UI components and templates** to speed up the design process.  
+- Makes it easy to **transition from wireframe to interactive prototype**, providing a clear visualization of the user experience.
+
+Using Figma, designers can quickly create, share, and iterate on wireframes, ensuring the design meets user needs before development begins.
