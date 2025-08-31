@@ -20,3 +20,29 @@ Wireframes include several key elements that help designers and developers plan 
    - **Example:** Buttons, dropdowns, and search fields in a booking system show what actions users can take, like filtering properties or submitting a booking.
 
 These elements collectively ensure the wireframe communicates the intended structure and user experience clearly, even before visual design begins.
+## Types of Wireframes
+
+Wireframes can be categorized into **low-fidelity** and **high-fidelity**, depending on their level of detail and purpose:
+
+1. **Low-Fidelity Wireframes**  
+   - Simple, basic sketches or digital layouts.  
+   - Focus on structure, layout, and functionality rather than visual design.  
+   - **Use Case:** Early stages of design when brainstorming and validating ideas quickly.  
+   - **Example:** A rough sketch showing where the header, navigation, content sections, and buttons will be placed.
+
+2. **High-Fidelity Wireframes**  
+   - Detailed and closer to the final design.  
+   - Include precise spacing, content, images, and sometimes basic interactions.  
+   - **Use Case:** Later stages of design when visual hierarchy and usability need testing before prototyping.  
+   - **Example:** A digital wireframe in Figma showing actual text, icons, buttons, and approximate styling.
+
+---
+
+### Identifying the Wireframe Type
+
+The type of wireframe depends on its **purpose and level of detail**:
+
+- If the wireframe is **rough, quick, and focuses on layout and flow**, it is **low-fidelity**.  
+- If it is **detailed, includes realistic content, and resembles the final product**, it is **high-fidelity**.
+
+
